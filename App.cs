@@ -8,6 +8,9 @@ namespace Contentinator
 {
     internal class App
     {
-        public void Start();
+        public void Start()
+        {
+
+        }
     }
 }
