@@ -8,5 +8,14 @@ namespace Contentinator.Api
 {
     internal class YoutubeApi : SocialMediaApi
     {
+        protected override void Authorisation()
+        {
+            throw new NotImplementedException();
+        }
+
+        protected override void Upload()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

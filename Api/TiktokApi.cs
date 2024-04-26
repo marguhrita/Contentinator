@@ -8,6 +8,14 @@ namespace Contentinator.Api
 {
     internal class TikTokApi : SocialMediaApi
     {
+        protected override void Authorisation()
+        {
+            throw new NotImplementedException();
+        }
 
+        protected override void Upload()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
