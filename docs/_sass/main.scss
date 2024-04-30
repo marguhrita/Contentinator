@@ -1,3 +1,8 @@
+//vars
+$transition-duration: 0.8s;
+$primary-color:rgb(208, 224, 244);
+
+
 body {
    background-size: cover;
 }
@@ -19,9 +24,17 @@ body, html {
 
 }
 
+.bebas-neue-regular {
+   font-family: "Bebas Neue", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
+
 .flex-item {
   width:100%;
-  background-color: beige;
+  
+  border-radius: 10px;
 }
 
 .grid {
@@ -33,13 +46,14 @@ body, html {
    justify-content: center;
    grid-template-columns: 1fr 1fr;
    grid-template-rows: 1fr 1fr;
-   background-color: beige;
+   background-color: $primary-color;
    border-radius: 10px;
 }
 
 .title {grid-area:title;
-        font-size: 3vw;
+        font-size: 4vw;
         text-align: left;
+
 }
 .about {grid-area:about;}
 .github {grid-area:github}
@@ -47,14 +61,25 @@ body, html {
 .privacy {grid-area:privacy}
 
 .grid-item {
-   border: 1px solid #000;
+   border:3px solid $primary-color;
    height:1fr;
    width: 1fr;
    border-radius: 10px;
+   transition: background-color $transition-duration ease, border-color $transition-duration ease;
+
+}
+
+.grid-item:hover {
+   border: 3px solid darken($color: $primary-color, $amount: 30%);
+   height:1fr;
+   width: 1fr;
+   border-radius: 10px;
+   background-color: darken($color: $primary-color, $amount: 5%);
 }
 
 .grid-item p {
    text-align: center;
+   font-family: "Bebas Neue"
 }
 
 
