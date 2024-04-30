@@ -1,4 +1,4 @@
-### Contentinator
+# Contentinator
 
 Check out the website!
 
