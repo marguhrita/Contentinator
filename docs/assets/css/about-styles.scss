@@ -1,0 +1,60 @@
+---
+---
+
+.container {
+    background-color: beige;
+    height: 85vh;
+    width: 50vh;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 7vh;
+    font-size: 200%;
+}
+
+.container p {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 85%;
+}
+
+.flex-title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: darken($color: beige, $amount: 10%);
+}
+
+.flex-title > a:first-child {
+    margin-right: auto;
+    margin-left: 10%;
+}
+
+.back-arrow {
+    width:200%;
+    height:200%;
+}
+
+.title-text{
+    text-align:center;
+    margin-right: 40%;
+}
+
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,92 @@
+body {
+  background-size: cover;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.flex-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0;
+  margin-left: 10em;
+  height: 100%;
+  width: 30%;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.flex-item {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-areas: "about github" "terms privacy";
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  background-color: rgb(208, 224, 244);
+  border-radius: 10px;
+}
+
+.title {
+  grid-area: title;
+  font-size: 4vw;
+  text-align: left;
+}
+
+.about {
+  grid-area: about;
+}
+
+.github {
+  grid-area: github;
+}
+
+.terms {
+  grid-area: terms;
+}
+
+.privacy {
+  grid-area: privacy;
+}
+
+.grid-item {
+  border: 3px solid rgb(208, 224, 244);
+  height: 1fr;
+  width: 1fr;
+  border-radius: 10px;
+  transition: background-color 0.8s ease, border-color 0.8s ease;
+  text-decoration: none;
+  color: black;
+}
+
+.grid-item:hover {
+  border: 3px solid #548ed7;
+  height: 1fr;
+  width: 1fr;
+  border-radius: 10px;
+  background-color: #bbd2ef;
+}
+
+.grid-item p {
+  text-align: center;
+  font-family: "Bebas Neue";
+}
+
+h1 {
+  font-size: 40;
+}
+
+/*# sourceMappingURL=main-styles.css.map */
