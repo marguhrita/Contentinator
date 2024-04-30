@@ -6,6 +6,20 @@
   align-items: center;
   margin-top: 7vh;
   font-size: 200%;
+  overflow: auto;
+}
+
+.container::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+.container::-webkit-scrollbar-track {
+  background-color: greenyellow;
+  border-radius: 5px;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background-color: #86de86;
 }
 
 .container p {
@@ -55,5 +69,3 @@ main {
   justify-content: center;
   align-items: center;
 }
-
-/*# sourceMappingURL=about-styles.css.map */
