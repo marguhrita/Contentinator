@@ -1,12 +1,13 @@
+---
+---
 <!doctype html>
 <html lang="en">
    <head>
       <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Contentinator</title>
-      <link rel="stylesheet" href="/assets/styles/main.css">
+      <link rel="stylesheet" href="{{'/assets/styles/main.css' | absolute_url}}">
       <body style="background-image:url('assets/images/bg.png');">    
-        
+         
       <section class="flex-container">
         <h1 class="flex-item title">Welcome to Contentinator</h1>
         <div class="flex-item grid">
@@ -14,6 +15,8 @@
           <div class="grid-item about">
             <p>
               about
+              {{absolute_url}}
+              <p>{{ "Hello, Liquid!" }}</p>
             </p>  
           </div>
           <div class="grid-item github">
@@ -22,7 +25,7 @@
             </p>               
           </div>
           <div class="grid-item class">
-            <p>   
+            <p>    
               TOS
             </p>
            
