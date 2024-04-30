@@ -34,8 +34,7 @@ body, html {
    grid-template-columns: 1fr 1fr;
    grid-template-rows: 1fr 1fr;
    background-color: #2b1e23;
-   border-radius: 50px;
-
+   border-radius: 10px;
 }
 
 .title {grid-area:title;
@@ -48,7 +47,7 @@ body, html {
 .privacy {grid-area:privacy}
 
 .grid-item {
-   background-color: #34b038;
+   border: 1px solid #000;
    height:1fr;
    width: 1fr;
    border-radius: 10px;
