@@ -68,6 +68,8 @@ body, html {
   width: 1fr;
   border-radius: 10px;
   transition: background-color 0.8s ease, border-color 0.8s ease;
+  text-decoration: none;
+  color: black;
 }
 
 .grid-item:hover {

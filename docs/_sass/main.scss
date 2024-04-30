@@ -66,6 +66,8 @@ body, html {
    width: 1fr;
    border-radius: 10px;
    transition: background-color $transition-duration ease, border-color $transition-duration ease;
+   text-decoration: none;
+   color: black;
 
 }
 
@@ -81,5 +83,9 @@ body, html {
    text-align: center;
    font-family: "Bebas Neue"
 }
+
+
+
+
 
 
