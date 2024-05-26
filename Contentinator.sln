@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contentinator", "Contentinator.csproj", "{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contentinator.Tests", "Contentinator.Tests\Contentinator.Tests.csproj", "{393FEC95-2F44-4FB4-B35C-349A832FA562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393FEC95-2F44-4FB4-B35C-349A832FA562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393FEC95-2F44-4FB4-B35C-349A832FA562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393FEC95-2F44-4FB4-B35C-349A832FA562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393FEC95-2F44-4FB4-B35C-349A832FA562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
