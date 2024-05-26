@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contentinator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0b0c74d2ae87c6efacc7c079749a5c0c13ef521")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d588b0660f34070c1bee69ee665a9118ddef11f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contentinator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contentinator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

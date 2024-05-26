@@ -389,16 +389,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Contentinator/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Contentinator.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Contentinator.dll": {}
-        }
       }
     }
   },
@@ -996,16 +986,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Contentinator/1.0.0": {
-      "type": "project",
-      "path": "../Contentinator.csproj",
-      "msbuildProject": "../Contentinator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Contentinator >= 1.0.0",
       "MSTest.TestAdapter >= 3.1.1",
       "MSTest.TestFramework >= 3.1.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
@@ -1038,11 +1022,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\Alastair\\Documents\\Contentinator\\Contentinator.csproj": {
-              "projectPath": "C:\\Users\\Alastair\\Documents\\Contentinator\\Contentinator.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
