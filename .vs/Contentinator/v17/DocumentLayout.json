@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Alastair\\Documents\\Contentinator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|C:\\Users\\Alastair\\Documents\\Contentinator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -16,26 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\api\\instagramapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:api\\instagramapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\api\\tiktokapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:api\\tiktokapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\api\\youtubeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:api\\youtubeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|c:\\users\\alastair\\documents\\contentinator\\api\\socialmediaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4456F8D-F495-4470-AD89-BAFA1E88C9A4}|Contentinator.csproj|solutionrelative:api\\socialmediaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -62,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
@@ -70,12 +54,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "ViewState": "AQIAAHQAAAAAAAAAAAAWwIcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-26T18:00:45.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:00:45.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.cs",
               "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\App.cs",
               "RelativeDocumentMoniker": "App.cs",
@@ -87,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -99,64 +82,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T00:36:44.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InstagramApi.cs",
-              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\InstagramApi.cs",
-              "RelativeDocumentMoniker": "Api\\InstagramApi.cs",
-              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\InstagramApi.cs",
-              "RelativeToolTip": "Api\\InstagramApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T00:17:43.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "YoutubeApi.cs",
-              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\YoutubeApi.cs",
-              "RelativeDocumentMoniker": "Api\\YoutubeApi.cs",
-              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\YoutubeApi.cs",
-              "RelativeToolTip": "Api\\YoutubeApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T00:17:27.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SocialMediaApi.cs",
-              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\SocialMediaApi.cs",
-              "RelativeDocumentMoniker": "Api\\SocialMediaApi.cs",
-              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\SocialMediaApi.cs",
-              "RelativeToolTip": "Api\\SocialMediaApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:40:23.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TiktokApi.cs",
-              "DocumentMoniker": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\TiktokApi.cs",
-              "RelativeDocumentMoniker": "Api\\TiktokApi.cs",
-              "ToolTip": "C:\\Users\\Alastair\\Documents\\Contentinator\\Api\\TiktokApi.cs",
-              "RelativeToolTip": "Api\\TiktokApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T23:39:10.077Z"
+              "WhenOpened": "2024-04-26T00:36:44.252Z"
             }
           ]
         }
